@@ -1,0 +1,1 @@
+msg_start = "Example message"
