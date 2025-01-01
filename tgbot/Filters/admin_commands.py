@@ -21,7 +21,6 @@ def set_commands(bot: TeleBot) -> None:
 
     # Set admin-specific commands for each admin
     for admin in admins:
-        print(admin)
         try:
             admin_commands = [
                 BotCommand(
